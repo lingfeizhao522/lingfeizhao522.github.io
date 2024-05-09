@@ -1,0 +1,4 @@
+baseURL = 'https://lingfeizhao.org/'
+languageCode = 'en-us'
+title = 'Lingfei Zhao'
+theme = 'ananke'
